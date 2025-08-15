@@ -35,3 +35,7 @@ Dentro da pasta `Sumo` (ou pasta equivalente onde o modelo está armazenado), te
 ## Status do projeto
 O simulador e a coleta de dados estão concluídos.  
 O modelo apresenta acurácia de até **84%** considerando 3 segundos de tolerância de erro, mas ainda não foi integrado a um semáforo funcional no SUMO.
+
+## Link do vídeo:
+
+https://drive.google.com/file/d/1t0JaDEbCoWOqjnIoU9KSosFGz5yBPHIo/view?usp=sharing
